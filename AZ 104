@@ -1,0 +1,69 @@
+✅ AZ-104: Microsoft Azure Administrator – High-Level Syllabus
+🔹 1. Manage Azure Identities and Governance (15–20%)
+Azure Active Directory (AAD)
+
+Users, groups, roles
+
+Conditional access
+
+Multi-Factor Authentication (MFA)
+
+Role-Based Access Control (RBAC)
+
+Subscriptions and Management Groups
+
+Azure Policies and Blueprints
+
+🔹 2. Implement and Manage Storage (15–20%)
+Storage Accounts
+
+Blob, File, Queue, Table
+
+Blob Storage
+
+Lifecycle management, access tiers, security
+
+Azure Files and File Sync
+
+Storage Access
+
+SAS tokens, keys, RBAC, Private Endpoints
+
+Backup and Recovery
+
+Azure Backup, soft delete, point-in-time restore
+
+🔹 3. Deploy and Manage Azure Compute Resources (20–25%)
+Virtual Machines
+
+Creation, configuration, availability sets/zones, extensions
+
+Azure App Services
+
+VM Scale Sets
+
+Azure Container Instances and Kubernetes
+
+Automated Deployment (ARM templates, Bicep, Azure CLI, Terraform)
+
+🔹 4. Configure and Manage Virtual Networking (20–25%)
+Virtual Networks (VNets)
+
+Subnets, NSGs, Route Tables, Peering
+
+Public & Private IPs
+
+VPN Gateway, VNet-to-VNet, ExpressRoute
+
+Load Balancers, Application Gateways, Firewalls
+
+🔹 5. Monitor and Maintain Azure Resources (10–15%)
+Azure Monitor
+
+Logs, metrics, alerts
+
+Azure Service Health
+
+Log Analytics and Workbooks
+
+Backup and Recovery (Recovery Services Vaults)
